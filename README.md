@@ -7,7 +7,8 @@
 
 [Adicione seus emojis favoritos.](https://getemoji.com/)
 <br>
-# Staks 🛠
+
+# Ferramentas 🛠
 - HTML
 - CSS
 - JAVASCRIPT
