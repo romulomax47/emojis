@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: fit-content;
+    height: fit-content; 
+    background-color:#333 ;
+} 
+
+#root {
+    width: 250px;
+    height: fit-content;
+    background-color: #333;
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+
+    margin-left: auto;
+    margin-top: 5px;
+
+    padding: 8px 10px;
+
+    border-radius: 9px;
+}
+
+#root div:hover{
+    cursor: pointer;
+    background: #ededed;
+    border-radius :8px;
+};
+
+

@@ -1,0 +1,12 @@
+{
+    "name":"Emojis",
+    "version":"1.0",
+    "description":"",
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"Emojis"
+    },
+    "manifest_version": 3,
+    "author":"Rômulo Max"
+
+}
