@@ -11,3 +11,5 @@
 - HTML
 - CSS
 - JAVASCRIPT
+
+LICENSE 👍.
